@@ -1,6 +1,10 @@
 # Hardware
 Hardware projects related to cybersecurity
 
+# SecureSync One
+![Screenshot from 2024-04-24 06-59-28](https://github.com/vm32/Hardware/assets/21219411/1cb357cd-3219-4de7-aa85-a96120644a05)
+
+
 ## About Me
 I'm Abdullah, a passionate hardware enthusiast with a keen interest in cybersecurity. Through these projects, I aim to combine my love for building things with my fascination for keeping digital systems secure. Join me on this journey as we delve into the exciting world of DIY cybersecurity hardware.
 
