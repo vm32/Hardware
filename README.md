@@ -3,6 +3,7 @@ Hardware projects related to cybersecurity
 
 # SecureSync One
 ![Screenshot from 2024-04-24 06-59-28](https://github.com/vm32/Hardware/assets/21219411/1cb357cd-3219-4de7-aa85-a96120644a05)
+![IMG_4693](https://github.com/vm32/Hardware/assets/21219411/50720635-4dd9-4f59-b819-cc2c3edd48c8)
 
 
 ## About Me
