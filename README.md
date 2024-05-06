@@ -8,7 +8,7 @@ Hardware projects related to cybersecurity
 # Hardware Hacking in Cyber security 
 You can read more in my blog: [Blog](https://vm32.github.io/2024/04/30/Hardware-Hacking-in-Cybersecurity.html)
 
-# CAD HW Hacking 
+# CAN HW Hacking 
 for my car project soon ;) 
 
 
